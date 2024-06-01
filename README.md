@@ -1,2 +1,2 @@
-# Cetpa-project
+# Anuj-project
 This is my first Git Repository
